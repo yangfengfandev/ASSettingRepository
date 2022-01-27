@@ -13,18 +13,6 @@
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-fd38892b-WmbAO7._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-01-26T05:42:51.244669Z" />
-        <name value="Xiaomi M2101K9C" />
-        <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
