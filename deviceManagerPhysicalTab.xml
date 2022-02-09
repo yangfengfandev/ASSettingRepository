@@ -8,10 +8,31 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-09T02:33:01.029441Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R38MA0J62YE" />
+          </Key>
+        </key>
+        <name value="samsung SM-F9000" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6872aaeb" />
+          </Key>
+        </key>
+        <name value="Palm PVG100" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
