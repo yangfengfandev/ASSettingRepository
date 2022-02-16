@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-16T02:45:40.540861Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -34,6 +33,17 @@
         <name value="Palm PVG100" />
         <target value="Android 8.1" />
         <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="LHS7N19223005293" />
+          </Key>
+        </key>
+        <name value="HUAWEI LYA-L29" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
