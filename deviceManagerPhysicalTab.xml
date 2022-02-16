@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-16T03:25:05.324940Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -45,6 +44,17 @@
         <name value="HUAWEI LYA-L29" />
         <target value="Android 9.0" />
         <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="13436015" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 8" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
