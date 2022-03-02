@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-02T08:13:58.014667Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -79,6 +78,17 @@
         <name value="samsung SM-N9600" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="FUH0216804000222" />
+          </Key>
+        </key>
+        <name value="HUAWEI HUAWEI VNS-L31" />
+        <target value="Android 7.0" />
+        <api value="24" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
