@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-02T10:12:12.426230Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -90,6 +89,28 @@
         <name value="HUAWEI HUAWEI VNS-L31" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3131853562002OX" />
+          </Key>
+        </key>
+        <name value="vivo V2072A" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="BH903Y695P" />
+          </Key>
+        </key>
+        <name value="Sony F5321" />
+        <target value="Android 8.0" />
+        <api value="26" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
