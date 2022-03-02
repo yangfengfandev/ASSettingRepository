@@ -5,11 +5,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R38MA0J62YE" />
+            <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-27T14:25:52.212390Z" />
-        <name value="samsung SM-F9000" />
+        <lastOnlineTime value="2022-03-02T06:05:59.083652Z" />
+        <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
@@ -17,11 +17,11 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
+            <value value="R38MA0J62YE" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-02T04:39:01.555380Z" />
-        <name value="HUAWEI HLK-AL00" />
+        <lastOnlineTime value="2022-02-27T14:25:52.212390Z" />
+        <name value="samsung SM-F9000" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
