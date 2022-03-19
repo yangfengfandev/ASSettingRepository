@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-19T12:05:35.170432Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -168,6 +167,18 @@
         <name value="samsung SM-A8000" />
         <target value="Android 5.1" />
         <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="19301FDF600J8X" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-19T13:15:51.300660Z" />
+        <name value="Google Pixel 6" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
