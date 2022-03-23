@@ -180,6 +180,18 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="299a4760" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-23T06:25:09.549371Z" />
+        <name value="OnePlus IN2010" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
