@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="19301FDF600J8X" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-30T13:41:54.696760Z" />
+        <name value="Google Pixel 6" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
@@ -178,18 +190,6 @@
         <name value="samsung SM-A8000" />
         <target value="Android 5.1" />
         <api value="22" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="19301FDF600J8X" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-30T13:17:16.718164Z" />
-        <name value="Google Pixel 6" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
