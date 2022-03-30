@@ -5,9 +5,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="23Q7N16223001239" />
+          </Key>
+        </key>
+        <name value="HUAWEI HUAWEI NXT-L29" />
+        <target value="Android 6.0" />
+        <api value="23" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-03-30T02:08:08.238890Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -213,17 +225,6 @@
         <name value="motorola XT2071-4" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="23Q7N16223001239" />
-          </Key>
-        </key>
-        <name value="HUAWEI HUAWEI NXT-L29" />
-        <target value="Android 6.0" />
-        <api value="23" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
