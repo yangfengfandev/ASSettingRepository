@@ -30,7 +30,7 @@
             <value value="23Q7N16223001239" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-31T06:24:28.464408Z" />
+        <lastOnlineTime value="2022-03-31T06:33:26.587967Z" />
         <name value="HUAWEI HUAWEI NXT-L29" />
         <target value="Android 6.0" />
         <api value="23" />
@@ -153,7 +153,6 @@
             <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-31T06:19:11.919403Z" />
         <name value="LeMobile Le X520" />
         <target value="Android 6.0" />
         <api value="23" />
