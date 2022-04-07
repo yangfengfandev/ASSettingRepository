@@ -8,7 +8,6 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-07T12:33:12.846529Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -176,6 +175,7 @@
             <value value="Y2J7N17825003487" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-07T13:34:35.527066Z" />
         <name value="HUAWEI VKY-AL00" />
         <target value="Android 9.0" />
         <api value="28" />
