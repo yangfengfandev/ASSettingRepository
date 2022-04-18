@@ -61,17 +61,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="6872aaeb" />
-          </Key>
-        </key>
-        <name value="Palm PVG100" />
-        <target value="Android 8.1" />
-        <api value="27" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="LHS7N19223005293" />
           </Key>
         </key>
@@ -149,28 +138,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="DU2YYB154R049430" />
-          </Key>
-        </key>
-        <name value="HUAWEI Che2-UL00" />
-        <target value="Android 4.4" />
-        <api value="19" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
-          </Key>
-        </key>
-        <name value="LeMobile Device" />
-        <target value="Android 6.0" />
-        <api value="23" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="172.18.188.108:5555" />
           </Key>
         </key>
@@ -178,28 +145,6 @@
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="2a06d4cc" />
-          </Key>
-        </key>
-        <name value="samsung SM-A8000" />
-        <target value="Android 5.1" />
-        <api value="22" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="299a4760" />
-          </Key>
-        </key>
-        <name value="OnePlus IN2010" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
