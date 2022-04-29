@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="GDBVB19A29008010" />
+          </Key>
+        </key>
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R3CN20826QN" />
           </Key>
         </key>
@@ -12,17 +23,6 @@
         <name value="samsung SM-G986N" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
-          </Key>
-        </key>
-        <name value="HUAWEI HLK-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -288,6 +288,29 @@
           </Key>
         </key>
         <name value="Google Pixel" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RR8R308HY1R" />
+          </Key>
+        </key>
+        <name value="samsung SM-A315G" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RF8R21FQLMV" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-29T11:10:28.012766Z" />
+        <name value="samsung SM-A217M" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
