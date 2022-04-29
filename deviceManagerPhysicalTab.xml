@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R3CN20826QN" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-29T10:26:18.439843Z" />
+        <name value="samsung SM-G986N" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
@@ -278,18 +290,6 @@
         <name value="Google Pixel" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R3CN20826QN" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-29T10:24:56.080942Z" />
-        <name value="samsung SM-G986N" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
