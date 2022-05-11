@@ -336,6 +336,18 @@
         <target value="Android 5.0" />
         <api value="21" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="06157df65b0fea27" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-11T09:31:41.647948Z" />
+        <name value="samsung SM-G9200" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
