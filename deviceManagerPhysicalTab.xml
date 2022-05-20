@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="0B211JECB06724" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-20T09:29:00.942313Z" />
+        <name value="Google Pixel 4a (5G)" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="7HX5T19906004717" />
           </Key>
         </key>
@@ -222,18 +234,6 @@
           </Key>
         </key>
         <name value="OnePlus IN2010" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0B211JECB06724" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-23T13:04:59.069680Z" />
-        <name value="Google Pixel 4a (5G)" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
