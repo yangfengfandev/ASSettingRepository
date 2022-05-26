@@ -8,7 +8,7 @@
             <value value="7HX5T19906004717" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-26T07:07:41.043946Z" />
+        <lastOnlineTime value="2022-05-26T07:51:01.336147Z" />
         <name value="HUAWEI LIO-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -345,6 +345,17 @@
         <name value="samsung SM-G9200" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="N2F4C15B25012181" />
+          </Key>
+        </key>
+        <name value="HUAWEI ALE-UL00" />
+        <target value="Android 6.0" />
+        <api value="23" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
