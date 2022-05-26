@@ -5,23 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="7HX5T19906004717" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-26T07:07:41.043946Z" />
+        <name value="HUAWEI LIO-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="0B211JECB06724" />
           </Key>
         </key>
         <name value="Google Pixel 4a (5G)" />
         <target value="Android 12.0" />
         <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="7HX5T19906004717" />
-          </Key>
-        </key>
-        <name value="HUAWEI LIO-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
