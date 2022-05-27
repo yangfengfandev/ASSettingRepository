@@ -8,10 +8,22 @@
             <value value="06157df65b0fea27" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-27T03:13:31.972250Z" />
+        <lastOnlineTime value="2022-05-27T04:02:18.433781Z" />
         <name value="samsung SM-G9200" />
         <target value="Android 7.0" />
         <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GDBVB19A29008010" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-27T04:02:18.434510Z" />
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -34,18 +46,6 @@
         <name value="Google Pixel 4a (5G)" />
         <target value="Android 12.0" />
         <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-05-27T03:35:28.802103Z" />
-        <name value="HUAWEI HLK-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
