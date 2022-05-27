@@ -5,9 +5,22 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="06157df65b0fea27" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-27T03:13:31.972250Z" />
+        <name value="samsung SM-G9200" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="7HX5T19906004717" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-05-27T03:13:31.973675Z" />
         <name value="HUAWEI LIO-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -334,17 +347,6 @@
         <name value="samsung SM-G900H" />
         <target value="Android 5.0" />
         <api value="21" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="06157df65b0fea27" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9200" />
-        <target value="Android 7.0" />
-        <api value="24" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
