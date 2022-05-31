@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="7HX5T19906004717" />
+          </Key>
+        </key>
+        <name value="HUAWEI LIO-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="06157df65b0fea27" />
           </Key>
         </key>
@@ -27,17 +38,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="7HX5T19906004717" />
-          </Key>
-        </key>
-        <name value="HUAWEI LIO-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="0B211JECB06724" />
           </Key>
         </key>
@@ -52,7 +52,6 @@
             <value value="R3CN20826QN" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T10:26:18.439843Z" />
         <name value="samsung SM-G986N" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -97,7 +96,6 @@
             <value value="R38MA0J62YE" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-27T14:25:52.212390Z" />
         <name value="samsung SM-F9000" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -219,7 +217,6 @@
             <value value="172.18.188.108:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-15T05:35:25.423023Z" />
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -275,7 +272,6 @@
             <value value="c79ab86f" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-26T13:22:05.958483Z" />
         <name value="OnePlus IN2010" />
         <target value="Android 11.0" />
         <api value="30" />
