@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R5CR106DLKZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9980" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="7HX5T19906004717" />
           </Key>
         </key>
@@ -132,17 +143,6 @@
         <name value="Xiaomi Redmi Note 8" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5CR106DLKZ" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9980" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
