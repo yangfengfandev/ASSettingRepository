@@ -8,7 +8,7 @@
             <value value="7HX5T19906004717" />
           </Key>
         </key>
-        <name value="HUAWEI LIO-AL00" />
+        <name value="Device" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
