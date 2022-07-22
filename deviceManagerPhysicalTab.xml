@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="TS7SBMFQSOLFTKEA" />
-          </Key>
-        </key>
-        <name value="LENOVO Lenovo A7600-m" />
-        <target value="Android 5.0" />
-        <api value="21" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="TS7SBMFQSOLFTKEA" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo A7600-m" />
+        <target value="Android 5.0" />
+        <api value="21" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
