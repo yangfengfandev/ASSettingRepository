@@ -397,6 +397,17 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="fd38892b" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2101K9C" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
