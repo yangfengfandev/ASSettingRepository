@@ -41,9 +41,9 @@
             <value value="R5CR106DLKZ" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="samsung SM-G9980" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -97,8 +97,8 @@
           </Key>
         </key>
         <name value="Google Pixel 6" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android API 32" />
+        <api value="32" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
