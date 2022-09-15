@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
-          </Key>
-        </key>
-        <name value="HUAWEI HLK-AL00" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="Y2J7N17825003487" />
           </Key>
         </key>
         <name value="HUAWEI VKY-AL00" />
         <target value="Android 9.0" />
         <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GDBVB19A29008010" />
+          </Key>
+        </key>
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
