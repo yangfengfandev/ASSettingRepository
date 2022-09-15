@@ -463,6 +463,17 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="CB512FJGKH" />
+          </Key>
+        </key>
+        <name value="Sony SO-04J" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
