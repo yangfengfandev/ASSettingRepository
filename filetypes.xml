@@ -6,13 +6,12 @@
       <mapping pattern="dialog_bunnle_reminder.xml" type="AUTO_DETECTED" />
       <mapping pattern="db_notes" type="AUTO_DETECTED" />
       <mapping pattern="{database name}" type="Android Room SQL" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="uu" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
