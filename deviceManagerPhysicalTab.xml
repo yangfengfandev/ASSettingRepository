@@ -10,7 +10,7 @@
         </key>
         <name value="HUAWEI LIO-AL00" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -19,9 +19,9 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <name value="HUAWEI HLK-AL00" />
+        <name value="HUAWEI Device" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="HUAWEI VKY-AL00" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="samsung SM-G986N" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +54,7 @@
         </key>
         <name value="LENOVO Lenovo A7600-m" />
         <target value="Android 5.0" />
-        <api value="21" />
+        <api value="androidversion:21:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +65,7 @@
         </key>
         <name value="samsung SM-G9980" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +76,7 @@
         </key>
         <name value="samsung SM-G9200" />
         <target value="Android 7.0" />
-        <api value="24" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -87,7 +87,7 @@
         </key>
         <name value="Google Pixel 4a (5G)" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +98,7 @@
         </key>
         <name value="Google Pixel 6" />
         <target value="Android API 32" />
-        <api value="32" />
+        <api value="androidversion:32:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -109,7 +109,7 @@
         </key>
         <name value="HUAWEI HUAWEI NXT-L29" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -120,7 +120,7 @@
         </key>
         <name value="samsung SM-F9000" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -131,7 +131,7 @@
         </key>
         <name value="Palm PVG100" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -142,7 +142,7 @@
         </key>
         <name value="HUAWEI LYA-L29" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -153,7 +153,7 @@
         </key>
         <name value="Xiaomi Redmi Note 8" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -164,7 +164,7 @@
         </key>
         <name value="samsung SM-N9600" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -175,7 +175,7 @@
         </key>
         <name value="HUAWEI HUAWEI VNS-L31" />
         <target value="Android 7.0" />
-        <api value="24" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -186,7 +186,7 @@
         </key>
         <name value="vivo V2072A" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -197,7 +197,7 @@
         </key>
         <name value="Sony F5321" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -208,7 +208,7 @@
         </key>
         <name value="HUAWEI Che2-UL00" />
         <target value="Android 4.4" />
-        <api value="19" />
+        <api value="androidversion:19:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -219,7 +219,7 @@
         </key>
         <name value="LeMobile Le X520" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -230,7 +230,7 @@
         </key>
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -241,7 +241,7 @@
         </key>
         <name value="samsung SM-A8000" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -252,7 +252,7 @@
         </key>
         <name value="OnePlus IN2010" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -263,7 +263,7 @@
         </key>
         <name value="motorola XT2071-4" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -274,7 +274,7 @@
         </key>
         <name value="samsung SM-J810Y" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -285,7 +285,7 @@
         </key>
         <name value="OnePlus IN2010" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -296,7 +296,7 @@
         </key>
         <name value="HUAWEI FLA-AL20" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -307,7 +307,7 @@
         </key>
         <name value="OPPO PEXM00" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -318,7 +318,7 @@
         </key>
         <name value="Google Pixel" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -329,7 +329,7 @@
         </key>
         <name value="samsung SM-A315G" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -340,7 +340,7 @@
         </key>
         <name value="samsung SM-A217M" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -351,7 +351,7 @@
         </key>
         <name value="samsung SM-G900H" />
         <target value="Android 5.0" />
-        <api value="21" />
+        <api value="androidversion:21:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -362,7 +362,7 @@
         </key>
         <name value="HUAWEI ALE-UL00" />
         <target value="Android 6.0" />
-        <api value="23" />
+        <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -373,7 +373,7 @@
         </key>
         <name value="vivo V2196A" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -384,7 +384,7 @@
         </key>
         <name value="samsung GT-I9502" />
         <target value="Android 5.0" />
-        <api value="21" />
+        <api value="androidversion:21:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -395,7 +395,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -406,7 +405,7 @@
         </key>
         <name value="Xiaomi M2101K9C" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -417,7 +416,7 @@
         </key>
         <name value="Palm PVG100" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -428,7 +427,7 @@
         </key>
         <name value="HUAWEI JAT-AL00" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -439,7 +438,7 @@
         </key>
         <name value="Meizu M1822" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -450,7 +449,7 @@
         </key>
         <name value="realme RMX3357" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -461,7 +460,7 @@
         </key>
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -472,7 +471,7 @@
         </key>
         <name value="Sony SO-04J" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
