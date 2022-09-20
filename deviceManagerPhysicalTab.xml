@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="7HX5T19906004717" />
+            <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <name value="HUAWEI LIO-AL00" />
+        <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
+            <value value="7HX5T19906004717" />
           </Key>
         </key>
-        <name value="HUAWEI Device" />
+        <name value="HUAWEI LIO-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
