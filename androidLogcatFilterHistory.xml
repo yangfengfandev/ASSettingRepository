@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="LogTagForTest" />
+    <option name="mostRecentlyUsed" value="ad_log" />
     <option name="nonFavorites">
       <list>
+        <option value="ad_log" />
         <option value="LogTagForTest" />
         <option value="Expected corner point size is 4, g" />
       </list>
