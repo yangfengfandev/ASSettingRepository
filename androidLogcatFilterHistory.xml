@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine tag:ad_log" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:ad_log" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:ad_log" />
         <option value="package:mine" />
         <option value="ad_log" />
         <option value="LogTagForTest" />
