@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.50.238:5555" />
+          </Key>
+        </key>
+        <name value="HUAWEI LIO-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="7HX5T19906004717" />
           </Key>
         </key>
@@ -472,17 +483,6 @@
         <name value="Sony SO-04J" />
         <target value="Android 8.0" />
         <api value="androidversion:26:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.50.238:5555" />
-          </Key>
-        </key>
-        <name value="HUAWEI LIO-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
