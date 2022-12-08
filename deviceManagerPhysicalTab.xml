@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R5CR106DLKZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9980" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
@@ -88,17 +99,6 @@
         <name value="LENOVO Lenovo A7600-m" />
         <target value="Android 5.0" />
         <api value="androidversion:21:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5CR106DLKZ" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9980" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
