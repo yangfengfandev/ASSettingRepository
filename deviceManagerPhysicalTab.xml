@@ -528,6 +528,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3052826a" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2002J9G" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
