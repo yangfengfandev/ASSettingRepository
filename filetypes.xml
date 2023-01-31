@@ -5,11 +5,13 @@
       <mapping pattern="permission" type="AUTO_DETECTED" />
       <mapping pattern="dialog_bunnle_reminder.xml" type="AUTO_DETECTED" />
       <mapping pattern="db_notes" type="AUTO_DETECTED" />
+      <mapping pattern="address-db" type="AUTO_DETECTED" />
       <mapping pattern="{database name}" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="uu" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
