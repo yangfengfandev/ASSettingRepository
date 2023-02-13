@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="GDBVB19A29008010" />
-          </Key>
-        </key>
-        <name value="HUAWEI HLK-AL00" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="299a4760" />
           </Key>
         </key>
         <name value="OnePlus IN2010" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GDBVB19A29008010" />
+          </Key>
+        </key>
+        <name value="HUAWEI HLK-AL00" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -570,6 +570,17 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="41594b3841563398" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9600" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
