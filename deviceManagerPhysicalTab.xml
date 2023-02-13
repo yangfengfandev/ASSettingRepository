@@ -582,6 +582,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZY22BKQLXK" />
+          </Key>
+        </key>
+        <name value="Lenovo XT2091-7" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
