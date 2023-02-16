@@ -8,7 +8,7 @@
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
-        <name value="HUAWEI HLK-AL00" />
+        <name value="HUAWEI Device" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
