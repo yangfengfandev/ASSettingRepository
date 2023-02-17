@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="5da8b2c2" />
+          </Key>
+        </key>
+        <name value="OPPO PEXM00" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
@@ -319,17 +330,6 @@
         <name value="HUAWEI FLA-AL20" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5da8b2c2" />
-          </Key>
-        </key>
-        <name value="OPPO PEXM00" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
