@@ -576,16 +576,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="(no serial number)" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="41594b3841563398" />
           </Key>
         </key>
