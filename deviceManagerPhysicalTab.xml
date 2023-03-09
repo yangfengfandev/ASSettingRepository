@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="3131853562002OX" />
+          </Key>
+        </key>
+        <name value="vivo V2072A" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="299a4760" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="ZY22G627FH" />
           </Key>
         </key>
@@ -33,17 +55,6 @@
         <name value="HUAWEI HLK-AL00" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="299a4760" />
-          </Key>
-        </key>
-        <name value="OnePlus IN2010" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -242,17 +253,6 @@
         <name value="HUAWEI HUAWEI VNS-L31" />
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="3131853562002OX" />
-          </Key>
-        </key>
-        <name value="vivo V2072A" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
