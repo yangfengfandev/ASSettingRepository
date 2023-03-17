@@ -691,6 +691,17 @@
         <name value="Device" />
         <target value="Android 1.0" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZE2226S9F9" />
+          </Key>
+        </key>
+        <name value="motorola moto e6s" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
