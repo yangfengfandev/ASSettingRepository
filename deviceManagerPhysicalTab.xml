@@ -702,6 +702,17 @@
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1391814587000KF" />
+          </Key>
+        </key>
+        <name value="vivo V2152" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
