@@ -711,6 +711,17 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="fac6c2b" />
+          </Key>
+        </key>
+        <name value="OPPO PFEM10" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
