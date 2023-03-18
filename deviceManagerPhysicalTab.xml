@@ -393,9 +393,8 @@
             <value value="RF8R21FQLMV" />
           </Key>
         </key>
-        <name value="samsung SM-A217M" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -458,9 +457,8 @@
             <value value="fd38892b" />
           </Key>
         </key>
-        <name value="Xiaomi M2101K9C" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
