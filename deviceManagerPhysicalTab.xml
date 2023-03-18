@@ -261,7 +261,7 @@
             <value value="FUH0216804000222" />
           </Key>
         </key>
-        <name value="HUAWEI HUAWEI VNS-L31" />
+        <name value="HUAWEI VNS-L31" />
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
