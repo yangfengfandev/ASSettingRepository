@@ -767,6 +767,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="KKUNU18507113203" />
+          </Key>
+        </key>
+        <name value="HUAWEI AGS-W09" />
+        <target value="Android 7.0" />
+        <api value="androidversion:24:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
