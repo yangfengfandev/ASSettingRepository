@@ -745,6 +745,17 @@
         <target value="Android 6.0" />
         <api value="androidversion:23:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ZY22FFZCBV" />
+          </Key>
+        </key>
+        <name value="motorola XT2201-2" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
