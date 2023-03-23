@@ -777,6 +777,17 @@
         <target value="Android 7.0" />
         <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R9YTA0V7WWJ" />
+          </Key>
+        </key>
+        <name value="samsung SM-A035M" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
