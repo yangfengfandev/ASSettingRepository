@@ -874,6 +874,17 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="3300148a9f2683b3" />
+          </Key>
+        </key>
+        <name value="samsung SM-A510F" />
+        <target value="Android 6.0" />
+        <api value="androidversion:23:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
