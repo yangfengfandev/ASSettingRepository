@@ -2,6 +2,5 @@
   <component name="DeviceMirroringSettings">
     <option name="confirmationDialogShown" value="true" />
     <option name="deviceMirroringEnabled" value="true" />
-    <option name="turnOffDisplayWhileMirroring" value="true" />
   </component>
 </application>
