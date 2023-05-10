@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="dialog_bunnle_reminder.xml" type="AUTO_DETECTED" />
+      <mapping pattern="address-db" type="AUTO_DETECTED" />
+      <mapping pattern="request_0" type="AUTO_DETECTED" />
+      <mapping pattern="userlog" type="AUTO_DETECTED" />
       <mapping pattern="en1" type="AUTO_DETECTED" />
       <mapping pattern="permission" type="AUTO_DETECTED" />
       <mapping pattern="response_0" type="AUTO_DETECTED" />
-      <mapping pattern="dialog_bunnle_reminder.xml" type="AUTO_DETECTED" />
       <mapping pattern="db_notes" type="AUTO_DETECTED" />
-      <mapping pattern="address-db" type="AUTO_DETECTED" />
-      <mapping pattern="request_0" type="AUTO_DETECTED" />
       <mapping pattern="{database name}" type="Android Room SQL" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
