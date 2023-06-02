@@ -2,20 +2,22 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine  " />
         <option value="package:mine tag:ad_log" />
+        <option value="package:mine  " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:ad_log " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ad_log" />
     <option name="nonFavorites">
       <list>
+        <option value="ad_log" />
+        <option value="tag:ad_log " />
+        <option value="package:mine  tag:BetaTag " />
         <option value="package:mine tag:ad_log " />
         <option value="package:mine tag:BetaTag " />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine -tag:ad_log" />
         <option value="package:mine" />
-        <option value="ad_log" />
         <option value="LogTagForTest" />
         <option value="Expected corner point size is 4, g" />
       </list>
