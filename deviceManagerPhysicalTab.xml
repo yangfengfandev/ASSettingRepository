@@ -41,9 +41,8 @@
             <value value="299a4760" />
           </Key>
         </key>
-        <name value="OnePlus IN2010" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
