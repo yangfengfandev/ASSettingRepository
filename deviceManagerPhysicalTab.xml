@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="299a4760" />
+          </Key>
+        </key>
+        <name value="OnePlus IN2010" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GDBVB19A29008010" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="Palm PVG100" />
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="299a4760" />
-          </Key>
-        </key>
-        <name value="OnePlus IN2010" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
