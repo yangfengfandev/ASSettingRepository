@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="3131853562002OX" />
+          </Key>
+        </key>
+        <name value="vivo V2072A" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="299a4760" />
           </Key>
         </key>
@@ -55,17 +66,6 @@
         <name value="vivo V2196A" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="3131853562002OX" />
-          </Key>
-        </key>
-        <name value="vivo V2072A" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
